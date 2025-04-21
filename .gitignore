@@ -1,0 +1,11 @@
+ld/
+eikon/
+notebook/.ipynb_checkpoints
+notebook/lseg-data.devrel.config.json
+notebook/.cache
+notebook/.config
+notebook/.ipython
+notebook/.jupyter
+notebook/.local
+notebook/.env
+notebook/app.py
